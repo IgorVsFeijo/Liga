@@ -1,3 +1,3 @@
-# Liga
+# PostIt
 
 > Author: Igor VS Feijó
